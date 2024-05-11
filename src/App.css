@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  color-scheme: dark;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
